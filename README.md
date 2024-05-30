@@ -5,10 +5,10 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 ## Design Objective
 
 Desktop:
-![](./design/desktop-design.jpg)
+![Desktop Design](./design/desktop-design.jpg)
 
 Mobile:
-![](./design/mobile-design.jpg)
+![Mobile Design](./design/mobile-design.jpg)
 
 ## My process
 
